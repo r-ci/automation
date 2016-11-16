@@ -2,7 +2,6 @@
 #### Requirements
 1. Access to nodes via ssh key for root user
 2. Proper resolving by hostname on the machine, which you are using for deployment
-3. Ansible >= 2.0
 
 
 #### How to add additional docker images into your private registry during deployment?
